@@ -167,7 +167,7 @@ p{
     
     .containerII{
         color: rgb(3, 35, 86);
-        font-size: 5pt;
+        font-size: 12pt;
         text-decoration: none;
     }
 
@@ -211,7 +211,7 @@ p{
         gap: 20px;
         font-size: 15pt;
         text-decoration: none;
-        float: right;
+        float: center;
         padding: 40px;
     }
     
