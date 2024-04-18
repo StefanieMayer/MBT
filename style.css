@@ -150,7 +150,7 @@ p{
         gap: 5px;
         font-size: 12pt;
         text-decoration: none;
-        float: right;
+        float: center;
         padding: 40px;
     }
     
@@ -191,13 +191,13 @@ p{
 
     p{
         color: rgb(3, 35, 86);
-        font-size: 14px;
+        font-size: 18px;
         padding: 40px;
     }
 
     footer{
         color: rgb(3, 35, 86);
-        font-size: 5pt;
+        font-size: 8pt;
         margin-bottom: 20px;
     }
     
