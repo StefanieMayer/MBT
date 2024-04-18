@@ -147,8 +147,8 @@ p{
         display: flex;
         color: rgb(3, 35, 86);
         font-family: "Times New Roman", serif;
-        gap: 20px;
-        font-size: 7pt;
+        gap: 5px;
+        font-size: 10pt;
         text-decoration: none;
         float: right;
         padding: 40px;
@@ -158,8 +158,8 @@ p{
         display: flex;
         color: rgb(3, 35, 86);
         font-family: "Times New Roman", serif;
-        gap: 20px;
-        font-size: 7pt;
+        gap: 7px;
+        font-size: 11pt;
         text-decoration: none;
         justify-content: center;
         padding: 40px;
@@ -252,13 +252,13 @@ p{
 
     p{
         color: rgb(3, 35, 86);
-        font-size: 15px;
+        font-size: 20px;
         padding: 40px;
     }
 
     footer{
         color: rgb(3, 35, 86);
-        font-size: 8pt;
+        font-size: 12pt;
         margin-bottom: 20px;
     }
     
